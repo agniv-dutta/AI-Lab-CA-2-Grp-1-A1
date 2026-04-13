@@ -1,6 +1,6 @@
 # Lab CA-2 — Prompt Engineering & LLM Behavior Analysis
 
-![University Name](https://img.shields.io/badge/University-Your_University_Name-0f766e?style=for-the-badge)
+![University Name](https://img.shields.io/badge/University-K.J._Somaiya_School_of_Engineering-0f766e?style=for-the-badge)
 ![Subject](https://img.shields.io/badge/Subject-Artificial%20Intelligence%20(Sem%20VI)-1d4ed8?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-VI-7c3aed?style=for-the-badge)
 
